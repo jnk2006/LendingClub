@@ -1,7 +1,7 @@
 # LendingClub
 
 ## Project Description
-<p>Your group members decide to run a startup company and pursue your entrepreneurship on peer-to-peer lending.  You identified the business platform, i.e.,  the lending club(<a href = "https://www.lendingclub.com/"></a>), the largest peer-to-peer online marketplace bringing together borrowers and lenders.   You will build a startup institutional investment company (please see the definition of the investment company in the lending club:<a href = "https://www.lendingclub.com/investing/institutional/team"></a>) using this platform to identify some segment of borrowers. However, you do not have enough funding of your own and plan to attract the venture funding and your friends (NOT your mortgage, it is too risky :)) to provide your startup funds.<br>
+<p>Your group members decide to run a startup company and pursue your entrepreneurship on peer-to-peer lending.  You identified the business platform, i.e.,  the lending club(<a href = "https://www.lendingclub.com/">Lendinig club</a>), the largest peer-to-peer online marketplace bringing together borrowers and lenders.   You will build a startup institutional investment company (please see the definition of the investment company in the lending club:<a href = "https://www.lendingclub.com/investing/institutional/team">Institutional Investment Company</a>) using this platform to identify some segment of borrowers. However, you do not have enough funding of your own and plan to attract the venture funding and your friends (NOT your mortgage, it is too risky :)) to provide your startup funds.<br>
   (Description shown as professor provided on Canvas NJIT)</p>
   
 ## Dataset
